@@ -13,7 +13,7 @@ Images are multidimensional array of pixels and each pixel contains 3 values of 
 Conversion of RGB to HSV(Hue Saturation Value) values:
 In RGB mode every colour depends upon the all three value but in HSV mode hue is the colour portion of the colour model, saturation is the amount of grey in colour in 0 to 100 percent and value works with saturation to and describe the brightness of colour from 0 to 100 percent .
 
-##Hue range for choosing colour
+## Hue range for choosing colour
 
 |HUE|Angle|Value|
 |------|-------|--------|
